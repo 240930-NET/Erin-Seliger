@@ -1,0 +1,15 @@
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfoInputs.cache
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfo.cs
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.sourcelink.json
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\bin\Debug\net8.0\FitnessTracker.exe
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\bin\Debug\net8.0\FitnessTracker.deps.json
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\bin\Debug\net8.0\FitnessTracker.runtimeconfig.json
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\bin\Debug\net8.0\FitnessTracker.dll
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\bin\Debug\net8.0\FitnessTracker.pdb
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.dll
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\refint\FitnessTracker.dll
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.pdb
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\FitnessTracker.genruntimeconfig.cache
+C:\Users\12195\Revature\Erin-Seliger\P0\FitnessTracker\obj\Debug\net8.0\ref\FitnessTracker.dll
