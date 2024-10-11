@@ -7,11 +7,11 @@ public static class Menu {
     }
 
     public static void DisplayMenu() {
-        Console.WriteLine("1) Add an exercise");
-        Console.WriteLine("2) Display all exercises");
-        Console.WriteLine("3) Update an exercise");
-        Console.WriteLine("4) Delete an exercise");
-        Console.WriteLine("5) Save");
+        Console.WriteLine("1) Add a workout");
+        Console.WriteLine("2) Display all workouts");
+        Console.WriteLine("3) Delete a workout");
+        Console.WriteLine("4) Save");
+        Console.WriteLine("5) Exit\n");
     }
 
 
