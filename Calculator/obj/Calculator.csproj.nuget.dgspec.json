@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12195\\Desktop\\HelloWorld\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\12195\\Revature\\Erin-Seliger\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12195\\Desktop\\HelloWorld\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\12195\\Revature\\Erin-Seliger\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12195\\Desktop\\HelloWorld\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\12195\\Revature\\Erin-Seliger\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\12195\\Desktop\\HelloWorld\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\12195\\Revature\\Erin-Seliger\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\12195\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12195\\Desktop\\HelloWorld\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\12195\\Revature\\Erin-Seliger\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12195\\AppData\\Roaming\\NuGet\\NuGet.Config"

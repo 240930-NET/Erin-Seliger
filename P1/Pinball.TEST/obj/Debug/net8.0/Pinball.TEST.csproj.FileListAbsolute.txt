@@ -155,3 +155,5 @@ C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\obj\Debug\net8.0\refint\Pin
 C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\obj\Debug\net8.0\Pinball.TEST.pdb
 C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\obj\Debug\net8.0\Pinball.TEST.genruntimeconfig.cache
 C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\obj\Debug\net8.0\ref\Pinball.TEST.dll
+C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\12195\Revature\Erin-Seliger\P1\Pinball.TEST\bin\Debug\net8.0\Moq.dll

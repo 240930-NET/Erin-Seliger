@@ -29,6 +29,24 @@ namespace Pinball.API.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("Game1")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Game2")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Game3")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Game4")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Game5")
+                        .HasColumnType("int");
+
+                    b.Property<int>("GameEliminatedIn")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pinball.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb0a17ee87d79245f0a760d1cf1236b0a64fb48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322fafcdef83c8c0b78f4fa69fc5daa0c57f613a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pinball.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pinball.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
