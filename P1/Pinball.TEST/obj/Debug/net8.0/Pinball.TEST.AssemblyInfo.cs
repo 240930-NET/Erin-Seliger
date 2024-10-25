@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pinball.TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322fafcdef83c8c0b78f4fa69fc5daa0c57f613a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d366e684535b49360a0f19d1ba2ae6b3557cdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pinball.TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pinball.TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

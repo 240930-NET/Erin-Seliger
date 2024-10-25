@@ -25,7 +25,7 @@ public class PlayerService : IPlayerService {
     }
 
     public string AddPlayer(Player player) {
-        if (player.Name != "") {
+        if (player.Name != "" && player.Name != null) {
             _playerRepository.AddPlayer(player);
             return $"Player {player.Name} added successfully!";
         }
@@ -39,13 +39,34 @@ public class PlayerService : IPlayerService {
         Player searchedPlayer = _playerRepository.GetPlayerById(player.Id);
         if (searchedPlayer != null) {
 
-            searchedPlayer.Name = player.Name;
-            searchedPlayer.GameEliminatedIn = player.GameEliminatedIn;
-            searchedPlayer.Game1 = player.Game1;
-            searchedPlayer.Game2 = player.Game2;
-            searchedPlayer.Game3 = player.Game3;
-            searchedPlayer.Game4 = player.Game4;
-            searchedPlayer.Game5 = player.Game5;
+            if (!string.IsNullOrWhiteSpace(player.Name) && player.Name != "string" && searchedPlayer.Name != player.Name)
+            {
+                searchedPlayer.Name = player.Name;
+            }
+            if (player.GameEliminatedIn != default && searchedPlayer.GameEliminatedIn != player.GameEliminatedIn)
+            {
+                searchedPlayer.GameEliminatedIn = player.GameEliminatedIn;
+            }
+            if (player.Game1 != default && searchedPlayer.Game1 != player.Game1)
+            {
+                searchedPlayer.Game1 = player.Game1;
+            }
+            if (player.Game2 != default && searchedPlayer.Game2 != player.Game2)
+            {
+                searchedPlayer.Game2 = player.Game2;
+            }
+            if (player.Game3 != default && searchedPlayer.Game3 != player.Game3)
+            {
+                searchedPlayer.Game3 = player.Game3;
+            }
+            if (player.Game4 != default && searchedPlayer.Game4 != player.Game4)
+            {
+                searchedPlayer.Game4 = player.Game4;
+            }
+            if (player.Game5 != default && searchedPlayer.Game5 != player.Game5)
+            {
+                searchedPlayer.Game5 = player.Game5;
+            }
 
             _playerRepository.UpdatePlayer(searchedPlayer);
             return "Player updated successfully!";
